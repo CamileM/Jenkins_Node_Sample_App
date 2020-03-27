@@ -21,6 +21,13 @@ Use Jenkins to automate your development workflow so you can focus on work that 
 
 Execute repetitive tasks, save time, and optimize your development process with Jenkins.
 
+# What is CI CD
+
+# What is an automation server?
+
+# Why do we restrict build and how?
+
+
 # Downloads
 Non-source downloads such as WAR files and several Linux packages can be found on our [Mirrors].
 
@@ -29,9 +36,6 @@ Our latest and greatest source of Jenkins can be found on [GitHub]. Fork us!
 
 # Contributing to Jenkins
 Follow the [contributing](CONTRIBUTING.md) file.
-
-# News and Website
-All information about Jenkins can be found on our [website]. Follow us on Twitter [@jenkinsci].
 
 # License
 Jenkins is **licensed** under the **[MIT License]**.
@@ -43,8 +47,3 @@ Jenkins is **licensed** under the **[MIT License]**.
 [website]: https://jenkins.io/
 [@jenkinsci]: https://twitter.com/jenkinsci
 [wiki]: https://wiki.jenkins-ci.org
-
-What is CI CD s s
-What is an automation server?
-Why do we restrict build and how?
-Do a drawing of whats happening between AWS, GIT and GITHUB
