@@ -44,7 +44,7 @@ Jenkins is **licensed** under the **[MIT License]**.
 [@jenkinsci]: https://twitter.com/jenkinsci
 [wiki]: https://wiki.jenkins-ci.org
 
-What is CI CD
+What is CI CD s s
 What is an automation server?
 Why do we restrict build and how?
 Do a drawing of whats happening between AWS, GIT and GITHUB
